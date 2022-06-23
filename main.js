@@ -147,5 +147,4 @@ const getLocalIP = () =>
       renderGeolocaiton(localIP);
     });
 
-// getLocalIP();
-renderMap(40.65, -73.9);
+getLocalIP();

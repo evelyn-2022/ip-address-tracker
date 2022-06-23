@@ -21,8 +21,8 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/evelyn-2022/ip-address-tracker)
+- Live Site URL: [netlify](https://ip-address-tracker-evelyn.netlify.app/)
 
 ## Built with
 
