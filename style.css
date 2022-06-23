@@ -136,8 +136,9 @@ body {
 
 .border-line {
   width: 1.4px;
-  height: 94px;
+  height: 100px;
   background-color: hsl(0, 0%, 88%);
+  align-self: center;
 }
 
 @media screen and (max-width: 768px) {
